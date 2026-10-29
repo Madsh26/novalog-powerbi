@@ -2,7 +2,9 @@
 
 > Un modelo en estrella de **50.000 entregas** y un tablero de Power BI para vigilar el cumplimiento, el costo y los tiempos de una cadena de entrega, diseñados de principio a fin.
 
-![Encabezado del tablero NovaLog](assets/banner.jpg)
+![Tablero NovaLog de desempeño logístico y comercial](assets/tablero.jpg)
+
+[Ver el tablero en PDF](informe/NOVALOG.pdf)
 
 ## En una mirada
 
@@ -31,7 +33,7 @@ Usar datos sintéticos fue una decisión de método: me permitió **fijar de ant
 
 ## El tablero
 
-Una página, diez elementos: tres segmentadores, una tarjeta de indicador, cuatro visuales analíticos, una matriz y el encabezado.
+Una página con tres filtros (periodo, región y operador), cuatro indicadores (cumplimiento, margen, costo por pedido e incidencias) y cinco visuales analíticos. El **cumplimiento** se mide como entregas a tiempo sobre entregas efectivas.
 
 | Pregunta | Visual |
 |---|---|
@@ -43,19 +45,21 @@ Una página, diez elementos: tres segmentadores, una tarjeta de indicador, cuatr
 
 ## Lo que muestran los datos
 
-| Operador | Pedidos | A tiempo | Costo logístico promedio |
+| Operador | Pedidos | Cumplimiento | Costo logístico promedio |
 |---|---:|---:|---:|
-| RápidoYa | 7.554 | 82,9 % | 14.734 |
-| NovaFleet (flota propia) | 11.729 | 80,1 % | 12.350 |
-| Andina Express | 9.097 | 75,8 % | 13.747 |
-| Ruta360 | 8.581 | 64,5 % | 13.025 |
-| EnvíoPlus | 5.517 | 62,3 % | 13.116 |
-| LogiCol | 7.522 | 53,1 % | 12.625 |
+| RápidoYa | 7.554 | 87,9 % | 14.734 |
+| NovaFleet (flota propia) | 11.729 | 86,0 % | 12.350 |
+| Andina Express | 9.097 | 80,7 % | 13.747 |
+| Ruta360 | 8.581 | 68,9 % | 13.025 |
+| EnvíoPlus | 5.517 | 67,3 % | 13.116 |
+| LogiCol | 7.522 | 57,2 % | 12.625 |
 
-- **El costo no compra cumplimiento.** LogiCol cumple menos y no es el más barato de forma clara; RápidoYa cumple más y es el más caro.
-- **Pagar por urgencia no mejora el cumplimiento.** El servicio Mismo día cuesta en promedio un 56 % más que el Estándar (18.271 frente a 11.747), pero el cumplimiento ronda el 71 % en los cuatro servicios.
+Cumplimiento = entregas a tiempo sobre entregas efectivas, como en el tablero. El costo es el promedio por pedido.
+
+- **El costo no compra cumplimiento.** LogiCol cumple menos, y su costo no es de los más bajos; RápidoYa cumple más y es el más caro.
+- **Pagar por urgencia no mejora el cumplimiento.** El servicio Mismo día cuesta en promedio un 56 % más que el Estándar (18.271 frente a 11.747), pero el cumplimiento ronda el 76 % en los cuatro servicios.
 - **La temporada alta aprieta la operación.** Noviembre y diciembre concentran el 24,7 % de los pedidos del periodo.
-- **Resultado global:** 71,03 % de los pedidos llegan a tiempo, 22,4 % con retraso y 6,6 % no se concretan (devueltos, cancelados o fallidos). El tiempo real promedio es de 41,5 horas.
+- **Resultado global:** el cumplimiento es del 76,04 % de las entregas efectivas (71,03 % si se mide sobre los 50.000 pedidos). El 22,4 % llega con retraso y el 6,6 % no se concreta (devuelto, cancelado o fallido). El tiempo real promedio es de 41,5 horas.
 
 ## Modelo en estrella
 
@@ -80,7 +84,8 @@ Los datos son **sintéticos**: los generé con apoyo de IA para este ejercicio y
 ```text
 datos/      Hechos, 9 dimensiones, diccionario, relaciones y validación (CSV)
 powerbi/    NOVALOG.pbix y tema de colores (JSON)
-assets/     Encabezado del tablero
+informe/    Tablero exportado a PDF
+assets/     Captura y encabezado del tablero
 ```
 
 ## Cómo abrirlo
