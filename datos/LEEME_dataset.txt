@@ -1,0 +1,34 @@
+MODELO EN ESTRELLA - NOVALOG COMMERCE S.A.S.
+
+Dataset 100% sintético para uso académico en Power BI.
+Granularidad: 1 fila de Fact_Entregas = 1 pedido/envío asociado a un SKU principal.
+Filas de hechos: 50,000
+Periodo: 2024-01-01 a 2026-12-31
+Semilla reproducible: 20261003
+
+ARCHIVOS
+- Fact_Entregas.csv
+- Dim_Fecha.csv
+- Dim_Cliente.csv
+- Dim_Producto.csv
+- Dim_Geografia.csv
+- Dim_Transportadora.csv
+- Dim_Canal.csv
+- Dim_TipoServicio.csv
+- Dim_EstadoPedido.csv
+- Dim_Incidencia.csv
+- Modelo_Relaciones.csv
+- Diccionario_Datos.csv
+- Resumen_Validacion.csv
+
+PATRONES INTENCIONALES
+- Mayor demanda en noviembre y diciembre.
+- Diferencias de desempeño entre transportadoras.
+- Costos relacionados con peso, distancia, servicio e intentos de entrega.
+- Clientes Frecuentes y Premium con mayor propensión de compra.
+- Mayor presión logística en temporada alta.
+- Servicios Express y Mismo día con mayor costo y menor promesa de entrega.
+
+FECHAS EN POWER BI
+Relaciona Dim_Fecha[FechaKey] con Fact_Entregas[FechaPedidoKey] como relación activa.
+La relación con FechaEntregaKey puede dejarse inactiva y activarse en medidas DAX mediante USERELATIONSHIP.

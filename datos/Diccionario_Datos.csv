@@ -1,0 +1,24 @@
+﻿Tabla,Campo,Descripcion
+Fact_Entregas,IdPedido,Identificador único del pedido/envío.
+Fact_Entregas,FechaPedidoKey,FK a Dim_Fecha para fecha del pedido.
+Fact_Entregas,FechaEntregaKey,FK a Dim_Fecha para fecha de entrega; vacío si no hubo entrega efectiva.
+Fact_Entregas,ClienteKey,FK a Dim_Cliente.
+Fact_Entregas,ProductoKey,FK a Dim_Producto.
+Fact_Entregas,CiudadKey,FK a Dim_Geografia.
+Fact_Entregas,TransportadoraKey,FK a Dim_Transportadora.
+Fact_Entregas,CanalKey,FK a Dim_Canal.
+Fact_Entregas,TipoServicioKey,FK a Dim_TipoServicio.
+Fact_Entregas,EstadoPedidoKey,FK a Dim_EstadoPedido.
+Fact_Entregas,IncidenciaKey,FK a Dim_Incidencia.
+Fact_Entregas,CantidadProductos,Unidades del SKU principal del pedido.
+Fact_Entregas,PesoKg,Peso total estimado del envío.
+Fact_Entregas,DistanciaKm,Distancia logística estimada.
+Fact_Entregas,ValorVenta,Valor bruto antes de descuentos.
+Fact_Entregas,Descuento,Descuento monetario aplicado.
+Fact_Entregas,IngresoNeto,Ingreso realizado; cero en operaciones no efectivas.
+Fact_Entregas,CostoProducto,Costo imputado del producto.
+Fact_Entregas,CostoLogistico,Costo estimado de transporte/entrega.
+Fact_Entregas,TiempoPrometidoHoras,Tiempo comprometido con el cliente.
+Fact_Entregas,TiempoRealHoras,Tiempo real hasta entrega o último intento.
+Fact_Entregas,NumeroIntentosEntrega,Cantidad de intentos de entrega.
+Fact_Entregas,CalificacionCliente,Calificación de 1 a 5 cuando aplica.

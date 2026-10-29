@@ -1,0 +1,5 @@
+﻿TipoServicioKey,TipoServicio,NivelServicio
+1,Estándar,Regular
+2,Express,Prioritario
+3,Mismo día,Urgente
+4,Programado,Agendado

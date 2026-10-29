@@ -1,0 +1,11 @@
+﻿TablaDimension,ClaveDimension,TablaHechos,ClaveForanea,Cardinalidad,EstadoRelacion
+Dim_Fecha,FechaKey,Fact_Entregas,FechaPedidoKey,1:*,Activa
+Dim_Fecha,FechaKey,Fact_Entregas,FechaEntregaKey,1:*,Inactiva / USERELATIONSHIP
+Dim_Cliente,ClienteKey,Fact_Entregas,ClienteKey,1:*,Activa
+Dim_Producto,ProductoKey,Fact_Entregas,ProductoKey,1:*,Activa
+Dim_Geografia,CiudadKey,Fact_Entregas,CiudadKey,1:*,Activa
+Dim_Transportadora,TransportadoraKey,Fact_Entregas,TransportadoraKey,1:*,Activa
+Dim_Canal,CanalKey,Fact_Entregas,CanalKey,1:*,Activa
+Dim_TipoServicio,TipoServicioKey,Fact_Entregas,TipoServicioKey,1:*,Activa
+Dim_EstadoPedido,EstadoPedidoKey,Fact_Entregas,EstadoPedidoKey,1:*,Activa
+Dim_Incidencia,IncidenciaKey,Fact_Entregas,IncidenciaKey,1:*,Activa

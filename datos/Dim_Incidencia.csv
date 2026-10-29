@@ -1,0 +1,10 @@
+﻿IncidenciaKey,TipoIncidencia,OrigenIncidencia
+1,Sin incidencia,Ninguna
+2,Cliente ausente,Cliente
+3,Dirección incorrecta,Cliente/Datos
+4,Retraso operativo,Operación
+5,Problema de transporte,Transporte
+6,Daño del producto,Producto
+7,Problema climático,Externa
+8,Reprogramación solicitada,Cliente
+9,Cancelación del cliente,Cliente

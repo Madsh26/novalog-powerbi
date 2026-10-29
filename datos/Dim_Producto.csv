@@ -1,0 +1,301 @@
+﻿ProductoKey,IdProducto,Categoria,Subcategoria,Marca,RangoPrecio,TipoProducto,PrecioBase,PesoBaseKg
+1,PR0001,Tecnología,Audio,Teknova,Alto,General,873609.64,1.183
+2,PR0002,Electrodomésticos,Cuidado personal,Kubo,Medio,General,161706.14,1.963
+3,PR0003,Electrodomésticos,Limpieza,VentoHome,Medio,General,193925.06,1.735
+4,PR0004,Belleza,Fragancias,Aura,Bajo,General,57527.79,0.18
+5,PR0005,Electrodomésticos,Limpieza,Nordik,Premium,Frágil,1348726.91,15.738
+6,PR0006,Deportes,Running,Altura,Medio,General,118602.13,0.425
+7,PR0007,Hogar,Cocina,CasaNova,Bajo,General,44666.4,3.709
+8,PR0008,Tecnología,Computadores,Voltix,Medio,General,166095.16,1.42
+9,PR0009,Hogar,Iluminación,Domus,Medio,General,103246.57,1.336
+10,PR0010,Belleza,Cuidado facial,Velia,Bajo,Frágil,84624.66,0.237
+11,PR0011,Tecnología,Computadores,Orbit,Medio,General,161727.7,0.254
+12,PR0012,Tecnología,Celulares,Orbit,Premium,General,3594142.99,3.999
+13,PR0013,Accesorios,Gafas,Mondo,Alto,General,411185.0,0.478
+14,PR0014,Electrodomésticos,Cuidado personal,Kubo,Bajo,General,92028.88,14.407
+15,PR0015,Moda,Bolsos,Urbané,Alto,General,597190.49,1.034
+16,PR0016,Electrodomésticos,Cuidado personal,Electra,Alto,General,818766.54,10.366
+17,PR0017,Moda,Accesorios,Vitta,Medio,General,122291.72,0.127
+18,PR0018,Tecnología,Computadores,Nexa,Medio,Frágil,119666.33,2.089
+19,PR0019,Tecnología,Celulares,Orbit,Medio,General,333511.44,0.309
+20,PR0020,Hogar,Organización,Praktik,Medio,General,127326.14,6.839
+21,PR0021,Electrodomésticos,Limpieza,Nordik,Medio,General,368762.52,8.56
+22,PR0022,Accesorios,Viaje,Mondo,Bajo,General,51292.53,0.141
+23,PR0023,Moda,Calzado,Urbané,Medio,General,103452.19,0.18
+24,PR0024,Hogar,Decoración,Domus,Medio,General,181210.82,4.797
+25,PR0025,Electrodomésticos,Climatización,Nordik,Bajo,General,80471.41,9.301
+26,PR0026,Belleza,Fragancias,Botanika,Medio,Frágil,104503.63,0.286
+27,PR0027,Moda,Accesorios,Vitta,Bajo,General,37822.81,0.103
+28,PR0028,Moda,Bolsos,Vitta,Bajo,General,36736.66,0.61
+29,PR0029,Electrodomésticos,Cocina,Kubo,Medio,General,393357.08,0.773
+30,PR0030,Deportes,Accesorios deportivos,Altura,Alto,General,465566.01,5.598
+31,PR0031,Moda,Bolsos,Vitta,Medio,General,277343.49,2.699
+32,PR0032,Accesorios,Viaje,Croma,Bajo,General,40372.69,0.382
+33,PR0033,Moda,Ropa,Northline,Alto,General,621236.51,1.73
+34,PR0034,Accesorios,Viaje,Línea 7,Bajo,General,32280.02,0.076
+35,PR0035,Hogar,Cocina,CasaNova,Alto,General,553557.14,8.422
+36,PR0036,Accesorios,Bisutería,Vento,Medio,General,322605.4,0.498
+37,PR0037,Moda,Ropa,Urbané,Medio,General,336055.8,0.171
+38,PR0038,Moda,Calzado,Vitta,Medio,General,209623.44,0.59
+39,PR0039,Accesorios,Gafas,Croma,Bajo,General,31901.15,2.356
+40,PR0040,Electrodomésticos,Cuidado personal,Kubo,Premium,General,1734734.41,13.172
+41,PR0041,Tecnología,Computadores,Voltix,Alto,Frágil,763081.2,1.357
+42,PR0042,Tecnología,Computadores,Voltix,Alto,General,652062.1,2.933
+43,PR0043,Tecnología,Computadores,Teknova,Alto,General,815051.05,0.186
+44,PR0044,Moda,Accesorios,Urbané,Medio,General,335622.54,0.127
+45,PR0045,Hogar,Decoración,Domus,Alto,General,805325.9,6.83
+46,PR0046,Hogar,Organización,Praktik,Bajo,General,35692.35,1.612
+47,PR0047,Electrodomésticos,Cuidado personal,Nordik,Medio,Frágil,291724.67,23.333
+48,PR0048,Electrodomésticos,Climatización,Kubo,Medio,General,380258.07,2.944
+49,PR0049,Accesorios,Relojes,Mondo,Bajo,General,26068.57,0.351
+50,PR0050,Deportes,Accesorios deportivos,Altura,Bajo,General,30086.74,5.355
+51,PR0051,Electrodomésticos,Cocina,Nordik,Bajo,Frágil,89891.53,1.771
+52,PR0052,Accesorios,Viaje,Croma,Medio,General,138231.37,0.053
+53,PR0053,Deportes,Accesorios deportivos,Altura,Bajo,General,85520.03,0.862
+54,PR0054,Belleza,Cuidado capilar,Aura,Medio,Frágil,132097.49,0.333
+55,PR0055,Deportes,Fitness,Altura,Premium,General,1193279.4,12.809
+56,PR0056,Tecnología,Computadores,Voltix,Medio,General,119745.04,2.205
+57,PR0057,Deportes,Outdoor,Kinetik,Medio,General,303442.88,0.747
+58,PR0058,Moda,Calzado,Northline,Bajo,General,86739.87,1.714
+59,PR0059,Tecnología,Computadores,Voltix,Medio,General,243029.17,2.352
+60,PR0060,Hogar,Cocina,Domus,Alto,General,790440.41,0.833
+61,PR0061,Moda,Accesorios,Vitta,Bajo,General,66156.45,0.349
+62,PR0062,Belleza,Cuidado facial,Aura,Medio,Frágil,198674.43,1.444
+63,PR0063,Hogar,Decoración,Domus,Bajo,General,47058.18,0.25
+64,PR0064,Deportes,Fitness,Apex,Premium,General,1181553.75,0.311
+65,PR0065,Tecnología,Audio,Nexa,Premium,General,1106497.49,0.771
+66,PR0066,Tecnología,Accesorios tecnológicos,Voltix,Premium,General,1186611.62,5.191
+67,PR0067,Belleza,Fragancias,Botanika,Medio,Frágil,290275.24,0.375
+68,PR0068,Hogar,Cocina,Domus,Medio,General,153888.38,1.883
+69,PR0069,Accesorios,Relojes,Mondo,Bajo,General,56716.08,1.212
+70,PR0070,Hogar,Cocina,CasaNova,Bajo,General,55499.72,5.299
+71,PR0071,Moda,Accesorios,Northline,Medio,General,163704.09,0.549
+72,PR0072,Accesorios,Gafas,Croma,Bajo,General,79803.8,0.065
+73,PR0073,Moda,Bolsos,Vitta,Alto,General,628435.36,0.122
+74,PR0074,Tecnología,Accesorios tecnológicos,Voltix,Medio,General,338713.76,3.328
+75,PR0075,Deportes,Fitness,Kinetik,Medio,General,255510.42,8.281
+76,PR0076,Hogar,Decoración,Praktik,Medio,General,340744.56,0.856
+77,PR0077,Accesorios,Relojes,Croma,Bajo,General,44655.33,0.139
+78,PR0078,Belleza,Fragancias,Aura,Medio,Frágil,120175.52,1.132
+79,PR0079,Deportes,Accesorios deportivos,MoveOn,Medio,General,252944.73,1.696
+80,PR0080,Accesorios,Gafas,Mondo,Medio,General,256542.56,0.473
+81,PR0081,Tecnología,Audio,Voltix,Premium,Frágil,1084037.04,1.166
+82,PR0082,Moda,Accesorios,Urbané,Medio,General,180428.61,0.351
+83,PR0083,Accesorios,Bisutería,Línea 7,Alto,General,417318.19,0.509
+84,PR0084,Hogar,Decoración,Praktik,Bajo,General,94732.3,6.892
+85,PR0085,Deportes,Accesorios deportivos,Apex,Medio,General,314554.53,0.191
+86,PR0086,Moda,Ropa,Vitta,Bajo,General,39784.07,0.584
+87,PR0087,Electrodomésticos,Cocina,VentoHome,Alto,General,803518.13,10.989
+88,PR0088,Accesorios,Relojes,Croma,Bajo,General,25052.24,1.093
+89,PR0089,Moda,Ropa,Vitta,Medio,General,159612.56,0.287
+90,PR0090,Belleza,Maquillaje,Siena,Medio,General,226465.99,1.897
+91,PR0091,Moda,Calzado,Northline,Medio,General,302437.11,0.786
+92,PR0092,Belleza,Cuidado facial,Siena,Medio,General,118863.37,0.596
+93,PR0093,Hogar,Cocina,Lumina,Bajo,General,56237.41,2.084
+94,PR0094,Hogar,Organización,Lumina,Bajo,General,41132.11,6.695
+95,PR0095,Moda,Ropa,Urbané,Alto,General,577213.69,0.751
+96,PR0096,Hogar,Iluminación,Lumina,Bajo,General,63666.28,0.47
+97,PR0097,Belleza,Fragancias,Siena,Bajo,General,30273.4,1.394
+98,PR0098,Tecnología,Celulares,Orbit,Alto,Frágil,927826.85,0.124
+99,PR0099,Tecnología,Accesorios tecnológicos,Voltix,Premium,General,1051528.18,1.086
+100,PR0100,Tecnología,Accesorios tecnológicos,Teknova,Premium,Frágil,2427060.86,1.695
+101,PR0101,Belleza,Maquillaje,Botanika,Bajo,Frágil,37805.69,0.078
+102,PR0102,Tecnología,Accesorios tecnológicos,Orbit,Medio,General,243489.35,1.695
+103,PR0103,Deportes,Running,Kinetik,Medio,General,165482.69,0.546
+104,PR0104,Belleza,Maquillaje,Botanika,Medio,General,131635.65,0.101
+105,PR0105,Tecnología,Accesorios tecnológicos,Nexa,Medio,Frágil,142052.17,2.333
+106,PR0106,Deportes,Accesorios deportivos,Kinetik,Alto,General,506336.6,1.027
+107,PR0107,Tecnología,Celulares,Teknova,Alto,Frágil,401218.74,0.271
+108,PR0108,Deportes,Running,MoveOn,Bajo,General,33836.93,0.352
+109,PR0109,Hogar,Decoración,Praktik,Bajo,General,37957.2,0.649
+110,PR0110,Belleza,Cuidado capilar,Aura,Medio,Frágil,224103.21,0.465
+111,PR0111,Belleza,Cuidado capilar,Botanika,Bajo,General,98139.54,0.332
+112,PR0112,Electrodomésticos,Cocina,Kubo,Alto,General,469692.94,0.418
+113,PR0113,Electrodomésticos,Cocina,VentoHome,Medio,General,244998.89,7.381
+114,PR0114,Accesorios,Viaje,Mondo,Alto,General,546352.26,0.422
+115,PR0115,Deportes,Fitness,Altura,Alto,General,888463.06,1.453
+116,PR0116,Tecnología,Celulares,Voltix,Medio,Frágil,102183.0,0.166
+117,PR0117,Electrodomésticos,Climatización,Electra,Premium,Frágil,2576484.02,0.725
+118,PR0118,Belleza,Cuidado facial,Botanika,Medio,Frágil,229562.72,0.416
+119,PR0119,Electrodomésticos,Cuidado personal,Nordik,Medio,Frágil,247826.86,9.583
+120,PR0120,Accesorios,Viaje,Mondo,Medio,General,311748.49,0.057
+121,PR0121,Moda,Calzado,Urbané,Medio,General,327550.15,0.975
+122,PR0122,Moda,Bolsos,Vitta,Medio,General,129512.88,2.113
+123,PR0123,Moda,Accesorios,Marea,Medio,General,160192.67,0.231
+124,PR0124,Moda,Accesorios,Marea,Medio,General,103853.69,0.108
+125,PR0125,Moda,Bolsos,Urbané,Medio,General,198868.97,0.274
+126,PR0126,Hogar,Cocina,Domus,Bajo,General,27809.24,1.367
+127,PR0127,Electrodomésticos,Cocina,Nordik,Alto,General,793311.82,0.607
+128,PR0128,Deportes,Accesorios deportivos,Apex,Bajo,General,86442.96,12.83
+129,PR0129,Accesorios,Gafas,Mondo,Bajo,General,21892.63,0.455
+130,PR0130,Moda,Accesorios,Marea,Medio,General,164058.64,1.309
+131,PR0131,Accesorios,Bisutería,Mondo,Bajo,General,18024.07,0.192
+132,PR0132,Moda,Accesorios,Northline,Alto,General,503073.37,0.6
+133,PR0133,Belleza,Cuidado capilar,Siena,Alto,Frágil,478996.83,0.055
+134,PR0134,Belleza,Cuidado facial,Siena,Medio,General,205406.85,1.505
+135,PR0135,Belleza,Cuidado facial,Siena,Medio,Frágil,161977.65,0.11
+136,PR0136,Belleza,Cuidado facial,Botanika,Bajo,Frágil,25178.29,0.515
+137,PR0137,Accesorios,Relojes,Vento,Bajo,General,28680.54,0.967
+138,PR0138,Deportes,Running,Kinetik,Premium,General,1044060.56,0.418
+139,PR0139,Moda,Accesorios,Northline,Medio,General,172058.23,0.249
+140,PR0140,Tecnología,Accesorios tecnológicos,Nexa,Premium,Frágil,1991294.71,0.129
+141,PR0141,Tecnología,Computadores,Teknova,Premium,General,1360170.52,0.331
+142,PR0142,Deportes,Outdoor,Kinetik,Alto,General,574005.39,4.718
+143,PR0143,Accesorios,Gafas,Línea 7,Bajo,General,21155.39,0.081
+144,PR0144,Tecnología,Celulares,Orbit,Premium,Frágil,1292981.33,0.464
+145,PR0145,Tecnología,Celulares,Orbit,Premium,General,1030175.49,5.421
+146,PR0146,Accesorios,Relojes,Croma,Medio,General,150320.36,0.418
+147,PR0147,Moda,Accesorios,Urbané,Bajo,General,51294.56,0.885
+148,PR0148,Accesorios,Bisutería,Croma,Bajo,General,80025.41,0.321
+149,PR0149,Deportes,Fitness,Kinetik,Bajo,General,57585.88,5.596
+150,PR0150,Deportes,Running,Altura,Alto,General,536240.35,2.201
+151,PR0151,Deportes,Fitness,Altura,Medio,General,231762.96,4.068
+152,PR0152,Tecnología,Celulares,Voltix,Medio,General,284110.12,0.431
+153,PR0153,Electrodomésticos,Cocina,Electra,Medio,General,245424.76,2.35
+154,PR0154,Moda,Bolsos,Marea,Bajo,General,42406.37,1.108
+155,PR0155,Moda,Ropa,Marea,Bajo,General,70246.03,0.373
+156,PR0156,Tecnología,Computadores,Voltix,Medio,General,139277.06,1.167
+157,PR0157,Belleza,Fragancias,Aura,Bajo,General,20209.13,0.245
+158,PR0158,Accesorios,Relojes,Croma,Medio,General,253946.19,0.345
+159,PR0159,Hogar,Iluminación,Praktik,Bajo,General,51331.74,7.856
+160,PR0160,Hogar,Decoración,Praktik,Bajo,General,74645.85,1.298
+161,PR0161,Deportes,Fitness,MoveOn,Alto,General,626151.81,0.189
+162,PR0162,Tecnología,Audio,Nexa,Medio,General,249454.07,0.182
+163,PR0163,Hogar,Cocina,CasaNova,Bajo,General,50082.05,4.468
+164,PR0164,Electrodomésticos,Climatización,VentoHome,Premium,General,1519368.43,0.708
+165,PR0165,Tecnología,Accesorios tecnológicos,Orbit,Alto,General,527824.85,0.917
+166,PR0166,Accesorios,Relojes,Croma,Medio,General,313685.74,0.159
+167,PR0167,Hogar,Decoración,CasaNova,Bajo,General,88407.77,2.778
+168,PR0168,Accesorios,Gafas,Línea 7,Bajo,General,25832.01,0.122
+169,PR0169,Accesorios,Relojes,Croma,Bajo,General,84147.58,0.078
+170,PR0170,Moda,Accesorios,Marea,Medio,General,136978.75,1.136
+171,PR0171,Tecnología,Accesorios tecnológicos,Nexa,Alto,General,959894.44,0.423
+172,PR0172,Accesorios,Relojes,Mondo,Medio,General,239724.27,0.346
+173,PR0173,Tecnología,Celulares,Nexa,Premium,General,1830688.36,0.442
+174,PR0174,Moda,Ropa,Marea,Bajo,General,61075.36,2.8
+175,PR0175,Hogar,Cocina,Praktik,Bajo,General,69691.87,1.573
+176,PR0176,Electrodomésticos,Cocina,Electra,Medio,Frágil,353562.06,1.652
+177,PR0177,Belleza,Cuidado facial,Aura,Bajo,Frágil,48874.21,0.17
+178,PR0178,Tecnología,Computadores,Nexa,Medio,General,284990.92,0.354
+179,PR0179,Belleza,Fragancias,Siena,Medio,General,162956.08,0.087
+180,PR0180,Moda,Bolsos,Marea,Bajo,General,46201.7,0.415
+181,PR0181,Tecnología,Computadores,Teknova,Premium,Frágil,3727975.14,0.135
+182,PR0182,Hogar,Organización,Praktik,Bajo,General,43853.59,2.935
+183,PR0183,Moda,Bolsos,Vitta,Bajo,General,61666.37,0.718
+184,PR0184,Electrodomésticos,Limpieza,Nordik,Medio,Frágil,240075.35,4.606
+185,PR0185,Tecnología,Celulares,Teknova,Medio,General,127067.27,1.24
+186,PR0186,Tecnología,Audio,Teknova,Alto,General,420290.82,1.056
+187,PR0187,Moda,Calzado,Northline,Bajo,General,40847.78,0.276
+188,PR0188,Moda,Bolsos,Marea,Bajo,General,97805.94,1.965
+189,PR0189,Moda,Bolsos,Urbané,Alto,General,639177.55,1.944
+190,PR0190,Moda,Bolsos,Marea,Bajo,General,61205.51,0.151
+191,PR0191,Tecnología,Accesorios tecnológicos,Teknova,Bajo,General,96352.85,0.328
+192,PR0192,Hogar,Cocina,Lumina,Alto,General,501649.16,3.364
+193,PR0193,Electrodomésticos,Cocina,Electra,Alto,General,557449.25,7.889
+194,PR0194,Tecnología,Accesorios tecnológicos,Voltix,Premium,General,1421576.93,0.1
+195,PR0195,Hogar,Cocina,Lumina,Medio,General,373000.63,6.986
+196,PR0196,Belleza,Fragancias,Aura,Bajo,General,21042.89,0.193
+197,PR0197,Electrodomésticos,Cocina,Kubo,Premium,General,2184747.39,0.736
+198,PR0198,Deportes,Outdoor,Altura,Bajo,General,84258.55,0.708
+199,PR0199,Hogar,Organización,Domus,Medio,General,202247.87,3.782
+200,PR0200,Belleza,Cuidado facial,Velia,Bajo,Frágil,63848.82,0.229
+201,PR0201,Hogar,Decoración,Lumina,Medio,General,376585.58,9.198
+202,PR0202,Accesorios,Bisutería,Vento,Bajo,General,94186.4,0.128
+203,PR0203,Deportes,Fitness,Kinetik,Medio,General,134772.15,1.163
+204,PR0204,Hogar,Iluminación,Domus,Alto,General,849387.63,0.589
+205,PR0205,Deportes,Outdoor,MoveOn,Medio,General,274451.71,0.786
+206,PR0206,Belleza,Cuidado facial,Aura,Alto,General,451668.85,0.192
+207,PR0207,Deportes,Running,Kinetik,Bajo,General,90505.91,10.422
+208,PR0208,Electrodomésticos,Climatización,Nordik,Premium,General,1208987.62,8.565
+209,PR0209,Tecnología,Accesorios tecnológicos,Nexa,Alto,Frágil,587941.64,3.704
+210,PR0210,Electrodomésticos,Cocina,Electra,Premium,General,1106683.41,5.14
+211,PR0211,Hogar,Cocina,Lumina,Alto,General,807834.45,1.129
+212,PR0212,Moda,Ropa,Marea,Bajo,General,90085.09,0.296
+213,PR0213,Accesorios,Gafas,Línea 7,Medio,General,197123.93,0.287
+214,PR0214,Hogar,Decoración,Domus,Bajo,General,87392.27,1.557
+215,PR0215,Hogar,Decoración,Praktik,Bajo,General,56983.11,1.34
+216,PR0216,Tecnología,Celulares,Teknova,Medio,Frágil,322284.81,0.367
+217,PR0217,Accesorios,Bisutería,Línea 7,Bajo,General,18464.59,0.433
+218,PR0218,Tecnología,Celulares,Voltix,Premium,Frágil,2815238.35,0.883
+219,PR0219,Hogar,Iluminación,Lumina,Bajo,General,56050.76,2.499
+220,PR0220,Hogar,Cocina,Praktik,Alto,General,556311.96,8.554
+221,PR0221,Belleza,Cuidado facial,Aura,Medio,General,254837.37,0.156
+222,PR0222,Tecnología,Accesorios tecnológicos,Teknova,Alto,Frágil,920684.02,0.142
+223,PR0223,Electrodomésticos,Cuidado personal,Kubo,Medio,General,293950.43,1.246
+224,PR0224,Deportes,Outdoor,Kinetik,Medio,General,165873.92,0.622
+225,PR0225,Deportes,Outdoor,Altura,Medio,General,102689.76,0.105
+226,PR0226,Accesorios,Viaje,Mondo,Bajo,General,23457.13,0.187
+227,PR0227,Hogar,Iluminación,Domus,Alto,General,800606.57,3.793
+228,PR0228,Tecnología,Audio,Orbit,Alto,Frágil,434462.67,4.324
+229,PR0229,Electrodomésticos,Climatización,Electra,Medio,General,378478.0,0.956
+230,PR0230,Deportes,Outdoor,Altura,Medio,General,173828.07,0.204
+231,PR0231,Tecnología,Audio,Orbit,Medio,General,280040.0,2.118
+232,PR0232,Moda,Calzado,Northline,Medio,General,118840.32,0.691
+233,PR0233,Belleza,Maquillaje,Velia,Alto,General,407438.4,0.309
+234,PR0234,Hogar,Decoración,CasaNova,Bajo,General,60333.27,9.463
+235,PR0235,Deportes,Fitness,Altura,Bajo,General,39328.22,1.522
+236,PR0236,Accesorios,Bisutería,Croma,Bajo,General,84628.21,0.473
+237,PR0237,Belleza,Cuidado capilar,Aura,Bajo,Frágil,26232.49,0.164
+238,PR0238,Electrodomésticos,Cocina,Kubo,Medio,Frágil,130827.85,13.272
+239,PR0239,Hogar,Iluminación,Domus,Medio,General,346751.89,0.591
+240,PR0240,Moda,Calzado,Marea,Medio,General,194937.83,0.127
+241,PR0241,Accesorios,Bisutería,Croma,Bajo,General,28128.44,0.088
+242,PR0242,Tecnología,Audio,Teknova,Medio,Frágil,112555.26,2.959
+243,PR0243,Belleza,Fragancias,Siena,Bajo,General,48044.31,0.095
+244,PR0244,Moda,Bolsos,Marea,Medio,General,153570.88,0.2
+245,PR0245,Moda,Ropa,Northline,Alto,General,428179.94,1.551
+246,PR0246,Deportes,Fitness,Apex,Bajo,General,48090.55,13.237
+247,PR0247,Moda,Calzado,Northline,Bajo,General,37525.86,0.957
+248,PR0248,Tecnología,Celulares,Voltix,Premium,General,3228747.82,1.172
+249,PR0249,Accesorios,Viaje,Vento,Bajo,General,31292.89,0.257
+250,PR0250,Deportes,Fitness,Kinetik,Alto,General,824881.44,0.149
+251,PR0251,Electrodomésticos,Climatización,Nordik,Medio,Frágil,110074.55,23.501
+252,PR0252,Moda,Accesorios,Vitta,Bajo,General,97195.49,0.186
+253,PR0253,Electrodomésticos,Climatización,Electra,Medio,General,209108.26,4.605
+254,PR0254,Tecnología,Celulares,Voltix,Alto,General,445106.55,0.317
+255,PR0255,Tecnología,Computadores,Voltix,Medio,Frágil,278629.1,0.169
+256,PR0256,Tecnología,Celulares,Teknova,Medio,General,351240.71,3.261
+257,PR0257,Moda,Accesorios,Northline,Bajo,General,43768.72,0.454
+258,PR0258,Tecnología,Audio,Orbit,Premium,General,1345622.44,0.157
+259,PR0259,Tecnología,Accesorios tecnológicos,Teknova,Premium,General,1488623.29,0.793
+260,PR0260,Accesorios,Bisutería,Mondo,Bajo,General,88690.12,0.262
+261,PR0261,Tecnología,Celulares,Nexa,Medio,General,243906.49,0.877
+262,PR0262,Tecnología,Accesorios tecnológicos,Voltix,Medio,Frágil,266378.52,0.367
+263,PR0263,Belleza,Cuidado capilar,Siena,Bajo,General,61859.44,0.087
+264,PR0264,Deportes,Fitness,Apex,Medio,General,159610.55,1.903
+265,PR0265,Electrodomésticos,Cocina,Kubo,Bajo,General,98142.77,1.243
+266,PR0266,Moda,Calzado,Urbané,Medio,General,329997.83,2.056
+267,PR0267,Tecnología,Audio,Orbit,Medio,General,321414.75,0.493
+268,PR0268,Moda,Ropa,Northline,Medio,General,129028.88,1.787
+269,PR0269,Belleza,Cuidado facial,Aura,Medio,Frágil,186895.09,1.358
+270,PR0270,Hogar,Organización,Praktik,Medio,General,115833.66,7.263
+271,PR0271,Electrodomésticos,Limpieza,Electra,Alto,General,613170.59,2.765
+272,PR0272,Moda,Calzado,Vitta,Medio,General,374702.94,1.007
+273,PR0273,Hogar,Decoración,Lumina,Medio,General,127184.75,1.342
+274,PR0274,Moda,Ropa,Vitta,Medio,General,188982.59,0.331
+275,PR0275,Accesorios,Gafas,Mondo,Medio,General,107902.31,0.066
+276,PR0276,Hogar,Cocina,Praktik,Medio,General,212154.19,3.406
+277,PR0277,Moda,Bolsos,Vitta,Bajo,General,93724.66,0.42
+278,PR0278,Accesorios,Bisutería,Mondo,Bajo,General,76401.22,1.212
+279,PR0279,Tecnología,Accesorios tecnológicos,Teknova,Premium,General,3559452.58,0.354
+280,PR0280,Electrodomésticos,Climatización,Electra,Premium,General,2390045.42,5.685
+281,PR0281,Electrodomésticos,Limpieza,VentoHome,Premium,General,1032168.17,12.279
+282,PR0282,Deportes,Running,Apex,Medio,General,106775.58,0.989
+283,PR0283,Accesorios,Bisutería,Vento,Bajo,General,38901.66,0.546
+284,PR0284,Moda,Bolsos,Urbané,Alto,General,489859.38,0.109
+285,PR0285,Belleza,Cuidado capilar,Aura,Medio,Frágil,180020.94,0.062
+286,PR0286,Electrodomésticos,Limpieza,Kubo,Bajo,Frágil,91991.11,0.436
+287,PR0287,Moda,Calzado,Northline,Alto,General,423208.59,0.221
+288,PR0288,Electrodomésticos,Cocina,Kubo,Medio,General,100508.35,17.397
+289,PR0289,Electrodomésticos,Cocina,Nordik,Premium,Frágil,2092812.63,11.769
+290,PR0290,Tecnología,Computadores,Teknova,Medio,Frágil,361644.17,1.851
+291,PR0291,Electrodomésticos,Climatización,Electra,Medio,General,124908.82,13.04
+292,PR0292,Tecnología,Computadores,Teknova,Alto,General,695434.11,0.157
+293,PR0293,Moda,Calzado,Marea,Alto,General,639598.42,0.236
+294,PR0294,Hogar,Organización,Praktik,Bajo,General,97225.44,0.741
+295,PR0295,Tecnología,Celulares,Nexa,Premium,Frágil,2304660.86,3.424
+296,PR0296,Hogar,Organización,Domus,Alto,General,524590.08,0.446
+297,PR0297,Moda,Bolsos,Northline,Medio,General,270596.06,1.947
+298,PR0298,Hogar,Iluminación,Domus,Medio,General,190703.94,0.313
+299,PR0299,Hogar,Iluminación,Lumina,Alto,General,416655.1,1.01
+300,PR0300,Tecnología,Celulares,Voltix,Premium,General,1596300.54,4.03

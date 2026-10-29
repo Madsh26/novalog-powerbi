@@ -1,0 +1,14 @@
+﻿Indicador,Valor
+Filas Fact_Entregas,50000
+Clientes,6000
+Productos,300
+Fechas,1096
+Entregado a tiempo,35515
+Entregado con retraso,11192
+Devuelto,1553
+Cancelado,887
+Entrega fallida,853
+Cumplimiento sobre total %,71.03
+Ingreso neto total,28934317626.07
+Costo logístico total,660304358.09
+Tiempo real promedio horas,41.54

@@ -1,0 +1,6 @@
+﻿EstadoPedidoKey,EstadoPedido,GrupoEstado,EsEntregaEfectiva
+1,Entregado a tiempo,Entregado,1
+2,Entregado con retraso,Entregado,0
+3,Devuelto,No efectivo,0
+4,Cancelado,No efectivo,0
+5,Entrega fallida,No efectivo,0
